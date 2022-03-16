@@ -1,0 +1,5 @@
+name,chipset,socket,ram_type,ram_speed,ram_capacity,ram_slots,price
+"ASRock B450M-HDV","AMD B450","AMD AM4",DDR4,3200,32,2,699
+"ASUS ROG MAXIMUS APEX","Intel Z690","Intel 1700",DDR5,6600,64,2,7690
+"Gigabyte AORUS MASTER","Intel B660","Intel 1700",DDR4,5333,128,4,5699
+"MSI GAMING CARBON WIFI","AMD B550","AMD AM4",DDR4,5100,128,4,2190

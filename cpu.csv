@@ -1,0 +1,5 @@
+brand,model,speed,cores,threads,socket
+AMD,"Ryzen 5, (5600X)",3.7,6,12,"AMD AM4"
+AMD,"Ryzen 9, (5900X)",3.7,12,24,"AMD AM4"
+Intel,"Core i7, (11700)",2.5,8,16,"Intel 1200"
+Intel,"Core i9, (11900F)",2.5,8,16,"Intel 1200"
