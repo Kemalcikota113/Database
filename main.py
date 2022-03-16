@@ -110,3 +110,4 @@ while True:
         quit()  # quit
     else:
         print("invalid input!")
+        continue
